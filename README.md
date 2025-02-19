@@ -2,7 +2,9 @@
 
 # 🙌🏻 Hi Fellas! I'm Nadia
 🏫 I'm undergraduate statistics student.<br>📌 I am interested in deepening my knowledge of machine learning.<br>⚡️ This github was created to hold my portfolio and some notes.<br><br>Enjoy!😉<br><br><br>
-
+<div align="center">
+  <img height="200" src="9ks3kh.gif" alt = "Timmy"  />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nadeyyah_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadia-alzena-zahrani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadiaalzenazahrani@gmail.com) 
