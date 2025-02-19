@@ -17,7 +17,7 @@ Enjoy!😉
   <!-- Elemen Spotify di sebelah kiri -->
   <a href="https://open.spotify.com/user/kje65fx7mmj7vapsj4t48jzgu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kje65fx7mmj7vapsj4t48jzgu&count=5" 
-         alt="Spotify recently played" width="300" height="300" />
+         alt="Spotify recently played" width="300" height="200" />
   </a>
     <img height="200" src="9ks3kh.gif" alt="Timmy" />
     <img height="200" src="shaun.gif" alt="Shaun" />
