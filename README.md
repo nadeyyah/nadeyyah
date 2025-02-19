@@ -13,10 +13,11 @@ Enjoy!😉
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeyyah&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=nadeyyah&icon=0&color=1)](https://visitcount.itsvg.in)
 # 🎧 Spotify:
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 5px;">
   <img height="200" src="9ks3kh.gif" alt="Timmy" />
   <a href="https://open.spotify.com/user/kje65fx7mmj7vapsj4t48jzgu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kje65fx7mmj7vapsj4t48jzgu&count=5" alt="Spotify recently played" height="300" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kje65fx7mmj7vapsj4t48jzgu&count=5" alt="Spotify recently played" 
+      height="200" width = "200" />
   </a>
   <img height="200" src="shaun.gif" alt="Shaun" />
 </div>
