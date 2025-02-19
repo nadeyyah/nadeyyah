@@ -1,8 +1,22 @@
 <img src="id Banner.png" alt="GitHub Banner" width="100%" />
 
-# 🙌🏻 Hi Fellas! I'm Nadia
-🏫 I'm undergraduate statistics student.<br>📌 I am interested in deepening my knowledge of machine learning.<br>⚡️ This github was created to hold my portfolio and some notes.<br>
-Enjoy!😉
+<div style="display: flex; align-items: stretch; gap: 20px;">
+  <!-- Teks di sebelah kiri -->
+  <div>
+    <h1>🙌🏻 Hi Fellas! I'm Nadia</h1>
+    <p>🏫 I'm undergraduate statistics student.<br>
+       📌 I am interested in deepening my knowledge of machine learning.<br>
+       ⚡️ This GitHub was created to hold my portfolio and some notes.<br>
+       Enjoy!😉
+    </p>
+  </div>
+  <!-- GIF Timmy di sebelah kanan -->
+  <div style="display: flex; align-items: right;">
+    <img src="9ks3kh.gif" alt="Timmy" style="height: 100%;" />
+  </div>
+</div>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nadeyyah_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nadia-alzena-zahrani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadiaalzenazahrani@gmail.com) 
@@ -19,8 +33,7 @@ Enjoy!😉
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kje65fx7mmj7vapsj4t48jzgu&count=5" 
          alt="Spotify recently played" width="300" height="200" />
   </a>
-    <img height="200" src="9ks3kh.gif" alt="Timmy" />
-    <img height="200" src="shaun.gif" alt="Shaun" />
+    <img height="200" width = "300" src="shaun.gif" alt="Shaun" />
   </div>
 </div>
 <br>
