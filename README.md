@@ -2,7 +2,7 @@
 
 # Hi, Fellas! I'm Nadia!👋🏼
 
-<p align="left">🏫 I'm undergraduate statistics student.<br>📌 I am interested in deepening my knowledge of machine learning.<br>⚡️ This GitHub was created to hold my portfolio and some notes.<br>Enjoy!😉</p>
+<p align="left">🏫 I'm undergraduate statistics student @ Universitas Brawijaya.<br>📌 I am interested in deepening my knowledge of machine learning.<br>⚡️ This GitHub was created to hold my portfolio and some notes.<br>Enjoy!😉</p>
 
 ###
 
