@@ -20,8 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nadeyyah&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/nadeyyah/nadeyyah/output/snake.svg" alt="Snake animation" />
-###
 
 
 
