@@ -1,4 +1,4 @@
-<img scr = "id Banner.png" alt = "ID Banner" width ="100%"/>
+<img src="id Banner.png" alt="GitHub Banner" width="100%" />
 
 # 🙌🏻 Hi Fellas! I'm Nadia
 🏫 I'm undergraduate statistics student.<br>📌 I am interested in deepening my knowledge of machine learning.<br>⚡️ This github was created to hold my portfolio and some notes.<br><br>Enjoy!😉<br><br><br>
