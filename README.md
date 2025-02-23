@@ -7,9 +7,9 @@
 ###
 
 # 📊 Statistics
-![](https://github-readme-stats.vercel.app/api?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nadeyyah&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false_height="150")<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadeyyah&theme=dracula&hide_border=true_height="150")<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact_height="150")
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nadeyyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
