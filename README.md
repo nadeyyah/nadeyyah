@@ -7,13 +7,15 @@
 ###
 
 # 📊 Statistics
+![](https://github-readme-stats.vercel.app/api?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadeyyah&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeyyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nadeyyah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeyyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nadeyyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=nadeyyah&icon=3&color=11)](https://visitcount.itsvg.in)
 ###
 
 
