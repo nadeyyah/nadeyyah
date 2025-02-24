@@ -6,20 +6,18 @@
 
 ###
 
-# 📊 Statistics
-![](https://github-readme-stats.vercel.app/api?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nadeyyah&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeyyah&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nadeyyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=nadeyyah&icon=3&color=11)](https://visitcount.itsvg.in)
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+# 🖥 Tech
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
