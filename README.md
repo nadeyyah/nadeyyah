@@ -63,6 +63,8 @@
   </div>
 </div>
 <br>
+
+# ⏱ Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadeyyah/nadeyyah/output/snake.svg"  />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadeyyah/nadeyyah/output/snake.svg"  />
