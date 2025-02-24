@@ -1,4 +1,4 @@
-<img src="id Banner.png" alt="GitHub Banner" width="100%" />
+<img src="id Banner.gif" alt="GitHub Banner" width="100%" />
 
 # Hi, Fellas! I'm Nadia!👋🏼
 
