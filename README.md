@@ -50,21 +50,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nadeyyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-# 🎧 Spotify
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <!-- Elemen Spotify di sebelah kiri -->
-  <a href="https://open.spotify.com/user/kje65fx7mmj7vapsj4t48jzgu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kje65fx7mmj7vapsj4t48jzgu&count=5" 
-         alt="Spotify recently played" width="300" height="200" />
-  </a>
-    <img height="200" width = "300" src="shaun.gif" alt="Shaun" />
-  </div>
-</div>
-<br>
-
 # ⏱ Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadeyyah/nadeyyah/output/snake.svg"  />
